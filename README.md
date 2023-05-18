@@ -6,7 +6,7 @@
 - 💼 Estou em busca da minha primeira oportunidade na programação!
 
 <div style="display: inline_block"><br>
-  <h2>- 💻 Tenho conhecimentos e experiência com HTML, CSS, JavaScript e ReactJS!</h2>
+  <h2>- 💻 Tenho conhecimentos e experiência com HTML, CSS, JavaScript e React!</h2>
   
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -14,12 +14,11 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 
 <div style="display: inline_block"><br>
-  <h2>- 👨‍🎓 Também já tive contato com Dart e Flutter!</h2>
+  <h2>- 👨‍🎓 Também já tive contato com React, Dart e Flutter!</h2>
   
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">        
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
