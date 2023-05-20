@@ -3,7 +3,7 @@
 
 - 🔭 Sou programador Front-end!
 - 📫 Meu e-mail para contato é mattedi.dev@gmail.com!
-- 💼 Estou em busca da minha primeira oportunidade na programação!
+- 💼 Estou em busca de oportunidades na área de programação!
 
 <div style="display: inline_block"><br>
   <h2>- 💻 Tenho conhecimentos e experiência com HTML, CSS, JavaScript e React!</h2>
