@@ -18,7 +18,7 @@
 
 
 <div style="display: inline_block"><br>
-  <h2>- 👨‍🎓 Também já tive contato com React, Dart e Flutter!</h2>
+  <h2>- 👨‍🎓 Também já tive contato com Dart e Flutter!</h2>
   
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">        
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
