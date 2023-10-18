@@ -1,7 +1,7 @@
 <h1>Olá! Sou o Pedro Mattedi, bem vindo à minha página do Github! 👋</h1>
 
 
-- 🔭 Sou programador Front-end!
+- 🔭 Sou programador Front-end e mobile!
 - 📫 Meu e-mail para contato é mattedi.dev@gmail.com!
 - 💼 Estou em busca de oportunidades na área de programação!
 
