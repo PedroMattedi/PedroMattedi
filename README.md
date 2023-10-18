@@ -6,7 +6,7 @@
 - 💼 Estou em busca de oportunidades na área de programação!
 
 <div style="display: inline_block"><br>
-  <h2>- 💻 Tenho conhecimentos e experiência com HTML, CSS, JavaScript e React!</h2>
+  <h2>- 💻 Tenho conhecimentos e experiência com ReactJS e React Native!</h2>
   
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
