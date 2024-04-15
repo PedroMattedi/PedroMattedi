@@ -27,8 +27,8 @@
 
 
 <div style="display: inline_block"><br>
-  <h2>- ✏ Estou estudando NodeJS e MySQL! </h2>
+  <h2>- ✏ Estou estudando NodeJS! </h2>
   
    <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  
 </div>
