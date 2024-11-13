@@ -3,7 +3,6 @@
 
 - 🔭 Sou programador Front-end web e mobile!
 - 📫 Meu e-mail para contato é mattedi.dev@gmail.com!
-- 💼 Estou em busca de oportunidades na área de programação!
 
 <div style="display: inline_block"><br>
   <h2>- 💻 Tenho conhecimentos e experiência com React e React Native!</h2>
